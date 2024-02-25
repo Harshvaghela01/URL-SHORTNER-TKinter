@@ -1,0 +1,2 @@
+# URL-SHORTNER-TKinter
+ This GitHub repository hosts the codebase for a URL shortening application developed using Python and Tkinter GUI library. The project aims to provide users with a simple and intuitive interface to shorten long URLs into concise, shareable links. The application is built using Python, leveraging the Tkinter library for the graphical user interface, making it accessible to users across different platforms.
